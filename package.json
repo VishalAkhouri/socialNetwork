@@ -1,0 +1,24 @@
+{
+  "name": "socialnetwork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalakhouri/socialNetwork.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalakhouri/socialNetwork/issues"
+  },
+  "homepage": "https://github.com/vishalakhouri/socialNetwork#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-karma": "^0.12.1",
+    "karma": "^0.13.9"
+  }
+}
